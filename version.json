@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://github.com/darknightlab/vyos-arm64-autobuild/releases/download/1.5-rolling-202402141033/vyos-1.5-rolling-202402141033-arm64.iso",
-        "version": "1.5-rolling-202402141033",
-        "timestamp": "2024-02-14T10:33:00Z"
+        "url": "https://github.com/darknightlab/vyos-arm64-autobuild/releases/download/1.5-rolling-202402240338/vyos-1.5-rolling-202402240338-arm64.iso",
+        "version": "vyos-1.5-rolling-202402240338-arm64",
+        "timestamp": "2024-02-24T03:38:00Z"
     }
 ]
