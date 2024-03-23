@@ -2,6 +2,10 @@
 
 build vyos arm64 rolling by github actions
 
+## **注意事项**
+
+不要进行更新系统操作，目前更新系统会导致无法启动！！！
+
 ## 参考
 
 -   https://docs.vyos.io/en/latest/contributing/build-vyos.html
