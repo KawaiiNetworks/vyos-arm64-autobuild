@@ -33,7 +33,7 @@ system {
     }
     update-check {
         auto-check
-        url https://raw.githubusercontent.com/darknightlab/vyos-arm64-autobuild/main/version.json
+        url https://raw.githubusercontent.com/KawaiiNetworks/vyos-arm64-autobuild/main/version.json
     }
 }
 
