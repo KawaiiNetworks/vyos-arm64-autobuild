@@ -47,4 +47,4 @@ ls -l vyos-build/build/vyos-1.5-rolling-xxxxxxxxxxxx-arm64.iso
 
 -   pve 中运行请添加串口，使用串口显示，并尝试各种 bios/uefi 设置，如果出现 grub 界面即为启动成功。
 
--   启动后会卡在 exiting boot services vyos，是正常现象，因为显示卡住了，**不是 iso 有问题**。请将其 eth0 连接到路由器上并找到 vyos 通过 dhcp 获得的 ip 地址，ssh 登录即可。
+-   启动后会卡在 exiting boot services vyos，是正常现象，因为显示卡住了，**不是 iso 有问题**。请将其 eth0 连接到路由器上并找到 vyos 通过 dhcp 获得的 ip 地址，ssh 登录即可。显示设备选择**ramfb**可正常显示。
